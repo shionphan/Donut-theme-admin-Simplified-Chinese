@@ -4,11 +4,11 @@
         Donut Theme URI: https://github.com/amiyasahu/Donut/
         ---
         Packages Description: Donut theme Chinese packages for Donut theme
-        Packages URI: https://github.com/shionphan/Donut-Simplified-Chinese/
+        Packages URI: https://github.com/shionphan/Donut-theme-admin-Simplified-Chinese
         Packages Version: 1.0.0
         Packages Date: 2016-04-19
         Packages Author: Shionphan
-        Packages Author URI: http://www.joomla178.com/
+        Packages Author URI: https://github.com/shionphan
         Packages: GPLv2
         Packages Minimum Question2Answer Version: 1.6
         Packages Donut theme Version: 1.6.3

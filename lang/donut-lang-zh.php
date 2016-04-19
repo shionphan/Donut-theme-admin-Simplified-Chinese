@@ -4,11 +4,11 @@
         Donut Theme URI: https://github.com/amiyasahu/Donut/
         ---
         Donut Language Description: Donut theme Chinese packages for Donut theme
-        Donut Language URI: https://github.com/shionphan/Donut/
+        Donut Language URI: https://github.com/shionphan/Donut-theme-admin-Simplified-Chinese
         Donut Language Version: 1.6.3
         Donut Language Date: 2015-10-25
         Donut Language Author: Shionphan
-        Donut Language Author URI: http://www.joomla178.com/
+        Donut Language Author URI: https://github.com/shionphan
         Donut License: GPLv2
         Donut Minimum Question2Answer Version: 1.6
     */
